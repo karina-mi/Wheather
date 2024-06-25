@@ -69,12 +69,12 @@ export default function Weather(props) {
 
           and is{" "}
           <a
-            href="#"
+            href="https://github.com/karina-mi/Wheather "
             target="_blank"
             rel="noopener noreferrer"
           >
             open-sourced on GitHub
-          </a>{"https://github.com/karina-mi/Wheather "}
+          </a>{" "}
           and{" "}
           <a
             href="https://main--gleeful-lamington-8d1fbf.netlify.app/"
